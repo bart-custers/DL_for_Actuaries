@@ -1,4 +1,4 @@
-# DL_for_Actuaries
+# Deep Learning for Actuaries
 
 This repository aims to provide python code examples for three deep learning approaches that can be used by actuaries.
 
